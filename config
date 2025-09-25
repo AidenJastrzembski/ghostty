@@ -7,13 +7,17 @@ auto-update-channel = tip
 font-family = Jetbrains Mono
 font-size = 18
 cursor-style = block
+shell-integration-features = no-cursor
 
 # MACOS MODE
+#
+#
 # background = 171717
 # background-opacity = .8
 # background-blur = true
 
 # MIDNIGHT MODE
+#
 background = 000000
 background-opacity = 1
 
