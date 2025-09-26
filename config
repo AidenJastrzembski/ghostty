@@ -1,11 +1,14 @@
 auto-update-channel = tip
 
 # custom-shader = ~/.config/ghostty/shaders/cursor-smear.glsl
+custom-shader = ~/.config/ghostty/shaders/cursor-smear-fade.glsl
+# custom-shader = ~/.config/ghostty/shaders/crt.glsl
 # custom-shader-animation = true
 
 font-family = Jetbrains Mono
 font-size = 18
 cursor-style = block
+cursor-style-blink = false
 shell-integration-features = no-cursor
 
 # MACOS MODE
