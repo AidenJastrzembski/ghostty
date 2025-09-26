@@ -3,3 +3,4 @@ config-file = ./theme
 config-file = ./keybinds
 config-file = ./settings
 config-file = ../theme/glass-theme
+config-file = ../themes/1080p-fonts
