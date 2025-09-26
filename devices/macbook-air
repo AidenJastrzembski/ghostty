@@ -1,0 +1,4 @@
+config-file = ../keybinds
+config-file = ../settings
+config-file = ../themes/default-theme
+config-file = ../themes/4k-fonts
