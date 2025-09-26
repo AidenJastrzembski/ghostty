@@ -1,0 +1,13 @@
+keybind=super+j=goto_split:down
+keybind=super+k=goto_split:up
+keybind=super+h=goto_split:left
+keybind=super+l=goto_split:right
+
+keybind=super+down=new_split:down
+keybind=super+up=new_split:up
+keybind=super+left=new_split:left
+keybind=super+right=new_split:right
+
+keybind=super+x=close_surface
+keybind=global:ctrl+super+t=toggle_quick_terminal
+

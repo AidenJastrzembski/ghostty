@@ -1,0 +1,5 @@
+
+config-file = ./theme
+config-file = ./keybinds
+config-file = ./settings
+config-file = ../theme/glass-theme
