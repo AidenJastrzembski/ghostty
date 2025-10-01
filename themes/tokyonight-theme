@@ -1,0 +1,6 @@
+
+background = 24283b
+background-opacity = 1
+
+custom-shader = ~/.config/ghostty/shaders/cursor-smear.glsl
+custom-shader-animation = true

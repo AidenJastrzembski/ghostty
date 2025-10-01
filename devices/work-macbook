@@ -1,4 +1,4 @@
 config-file = ../keybinds
 config-file = ../settings
-config-file = ../themes/black-theme
+config-file = ../themes/tokyonight-theme
 config-file = ../themes/4k-fonts
